@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap');
+
+* {
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 1.5rem;
+    color: white;
+}
+
+.eventContainer {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-direction: row;
+}
+
+.date {
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 4px;
+    width: 2.5rem;
+    height: 1.2rem;
+    padding: 1rem 1.5rem 2.5rem;
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.infoContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    border-bottom: 2px solid rgb(255, 255, 255, 0.15);
+}
+
+.info { 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.name {
+    font-size: 22px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-shadow: 1px 1px #F56B9A;
+}
+
+.where {
+    font-size: small;
+    font-weight: light;
+    font-style: italic;
+}
+
+.price {
+    align-self: flex-end;
+    color: #37AEAB;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: large;
+}
