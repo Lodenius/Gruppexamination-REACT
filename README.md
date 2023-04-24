@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/vYcDdmH/Group-1.png" width="100%" height="200%"/></p>
+<p align="center"><img src="https://i.ibb.co/vYcDdmH/Group-1.png" width="100%" height="300%"/></p>
 
 # Where its @
 Where its @ är en praktisk biljettapplikation som är utformad för att hjälpa användare att enkelt hitta och boka biljetter till evenemang.
